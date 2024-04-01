@@ -9,7 +9,6 @@ This project involves the analysis of road casualty statistics using machine lea
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#documentation)
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,7 +30,7 @@ The Road Casualty Statistics Analysis project utilizes machine learning algorith
 
 To run the Road Casualty Statistics Analysis project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your_username/road-casualty-analysis.git`
+1. Clone the repository: `git clone https://github.com/khashayarM7/Road-Accidents-Data-2022.git`
 2. Navigate to the project directory: `cd road-casualty-analysis`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Download the dataset and place it in the appropriate directory.
@@ -48,19 +47,12 @@ To analyze road casualty statistics and train machine learning models, follow th
 5. Evaluate model performance: Generate classification reports, confusion matrices, and ROC curves to assess the performance of each model.
 6. Hyperparameter tuning: Use GridSearchCV to optimize model hyperparameters for improved accuracy.
 
-## Documentation
-
-For additional documentation and resources, refer to the following:
-
-- [Project Wiki](https://github.com/your_username/road-casualty-analysis/wiki): Detailed documentation on installation, usage, and troubleshooting.
-- [API Reference](https://github.com/your_username/road-casualty-analysis/api.md): Documentation for the project's API endpoints and functions.
 
 ## Examples
 
 To see examples and demos of the Road Casualty Statistics Analysis project, refer to the following:
 
-- [Example Notebooks](https://github.com/your_username/road-casualty-analysis/examples/): Jupyter Notebooks demonstrating different aspects of the analysis process.
-- [Live Demo](https://your_project_demo.com): Link to a live demo or visualization of the project's results.
+- [Example Notebooks](https://github.com/khashayarM7/Road-Accidents-Data-2022.git): Jupyter Notebooks demonstrating different aspects of the analysis process.
 
 ## Contributing
 
@@ -73,4 +65,12 @@ Contributions to the Road Casualty Statistics Analysis project are welcome and e
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). For inquiries related to licensing or usage rights, please contact [your_email@example.com](mailto:your_email@example.com).
+This project is licensed under the [MIT License](LICENSE). For inquiries related to licensing or usage rights, please contact [mohamadi.khashayar7301@gmail.com](mailto:mohamadi.khashayar7301@gmail.com).
+
+## Author
+
+Khashayar Mohamadi
+
+GitHub: [@khashayarM7](https://github.com/khashayarM7)
+
+Feel free to explore the code and analysis, and any contributions or feedback are welcome!
