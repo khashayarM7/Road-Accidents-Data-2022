@@ -9,7 +9,6 @@ This project involves the analysis of road casualty statistics using machine lea
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -48,11 +47,6 @@ To analyze road casualty statistics and train machine learning models, follow th
 6. Hyperparameter tuning: Use GridSearchCV to optimize model hyperparameters for improved accuracy.
 
 
-## Examples
-
-To see examples and demos of the Road Casualty Statistics Analysis project, refer to the following:
-
-- [Example Notebooks](https://github.com/khashayarM7/Road-Accidents-Data-2022.git): Jupyter Notebooks demonstrating different aspects of the analysis process.
 
 ## Contributing
 
